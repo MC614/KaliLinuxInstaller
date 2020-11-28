@@ -1,3 +1,4 @@
+#Coded by MC614
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install wget -y 
 folder=kali-fs
